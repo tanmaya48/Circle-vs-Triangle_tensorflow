@@ -1,0 +1,10 @@
+Training dataset size = 200
+Testing dataset size = 168
+
+Image size 20x20
+
+Extract the images before running
+
+Gets to about 85% accuracy with 30 epochs...
+
+A larger dataset may result in better performance
